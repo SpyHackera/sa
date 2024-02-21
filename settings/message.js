@@ -14,21 +14,21 @@ let enviar = {
   levelon: 'Leveling ativado com sucesso.',
   leveloff: 'Leveling desativado com sucesso.',
   levelnoton: 'Leveling não está ativado..',
-  levelErr: 'Erro identificado! Entre em contato com o dono para a resolução do problema.',
+  levelErr: 'Erro identificado! Entre em contato com Spy 554884702848 para a resolução do problema.',
 error: {
-  sticker: 'Falha ao converter a mídia, tente novamente mais tarde.',
+  sticker: 'Deu ruim irmão, tente novamente mais tarde.',
   Iink: 'Certifique-se ️se esse é o link correto a ser utilizado no comando.',
-    erro: "Desculpe, ocorreu um erro. Por favor, tente novamente mais tarde."
+    erro: "Foi mal, ocorreu um erro. Por favor, tente novamente mais tarde."
 },
 msg: {
-  grupo: 'Este comando só pode ser utilizado em grupos.',
-  premium: 'Este comando é exclusivo para usuários na lista premium.',
-  mod: 'Este comando é específico para o meu dono.',
-  banido: 'Você foi banido de utilizar os meus comandos.' ,
-  donosmt: 'Desculpe, mas apenas o dono do bot pode utilizar este comando.',
-  donosmt2: 'Desculpe, mas apenas o dono do bot pode utilizar este comando.',
+  grupo: 'Este comando só pode ser utilizado em grupos seu burro.',
+  premium: 'Este comando é exclusivo para usuários na lista premium seu jaguara.',
+  mod: 'Este comando é específico para @PapaiSpy.',
+  banido: 'Se fudeu! Você foi banido de utilizar os meus comandos. Quem é o otário agora?' ,
+  donosmt: 'Desculpe, mas apenas o Spy e Moders podem utilizar este comando.',
+  donosmt2: 'Desculpe, mas apenas o Spy e Moders podem utilizar este comando.',
   adm: 'Apenas administradores do grupo podem utilizar este comando.',
-  Badmin: 'Este comando só pode ser utilizado quando o bot é um administrador do grupo.',
+  Badmin: 'Nem sou adm aqui nessa caralha, quer que eu faça sáporra como?.',
   privado: 'Este comando só pode ser utilizado em conversas privadas.',
   modobn: 'Solicite ao admin para ativar o modo brincadeira para usar este comando.'
 }

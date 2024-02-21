@@ -8,10 +8,10 @@ Primeiro ligue o bot no termux, e vá para o WhatsApp do bot em algum privado, u
 ➣ ${prefix}Nome-bot Nome que deseja colocar em seu bot
 
 ⏣ *2- Para alterar o nick do dono do bot, use o seguinte comando:*
-➣  ${prefix}Nick-dono Seu nick aqui
+➣  ${prefix}Nick-dono Seu nick aqui @PapaiSpy
   
 ⏣ *3- Configure o número do dono, com o seguinte comando:*
-➣ ${prefix}numero-dono 558288279194
+➣ ${prefix}numero-dono 554884702848
 *Obs:* O número tem que ser junto, e não pode conter o símbolo de + nem - e não pode ter o 9 da operadora, tem que ser o número idêntico ao seu do whatsapp.
   
 ⏣ 4- *Configure o prefixo que você deseja no bot, usando o seguinte comando:*

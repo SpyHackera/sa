@@ -18,9 +18,9 @@ SABTCYAN='\033[1;36m'
 WHITE='\033[1;37m'
 while : 
 do
-echo "${GREEN}︎Sabrina-MD 6.0 _ Esta script contém auto reconexão ativada para prevenção de quedas...  Aproveite! <3
+echo "${GREEN}︎Sasah-MD 8.2 _ Esta script contém auto reconexão ativada para prevenção de quedas...  Aproveite! <3
 
-#BronxysDomina^-^"
+#SpyDomina^-^"
 node connect.js
 sleep 1
 done
